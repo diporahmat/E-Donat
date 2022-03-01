@@ -1,0 +1,57 @@
+F:\E-donat\cobatugasbesar\obj\Debug\E-Donat.vbprojAssemblyReference.cache
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmadmin.resources
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmData.resources
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmLogin.resources
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmlupaPassword.resources
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmPembayaran.resources
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmRegister.resources
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmHome.resources
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.Resources.resources
+F:\E-donat\cobatugasbesar\obj\Debug\E-Donat.vbproj.GenerateResource.cache
+F:\E-donat\cobatugasbesar\obj\Debug\E-Donat.vbproj.CoreCompileInputs.cache
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.exe
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.xml
+F:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.pdb
+F:\E-donat\cobatugasbesar\bin\Debug\cobatugasbesar.exe.config
+F:\E-donat\cobatugasbesar\bin\Debug\cobatugasbesar.exe
+F:\E-donat\cobatugasbesar\bin\Debug\cobatugasbesar.pdb
+F:\E-donat\cobatugasbesar\bin\Debug\cobatugasbesar.xml
+E:\E-donat\cobatugasbesar\bin\Debug\cobatugasbesar.exe.config
+E:\E-donat\cobatugasbesar\bin\Debug\cobatugasbesar.exe
+E:\E-donat\cobatugasbesar\bin\Debug\cobatugasbesar.pdb
+E:\E-donat\cobatugasbesar\bin\Debug\cobatugasbesar.xml
+E:\E-donat\cobatugasbesar\obj\Debug\E-Donat.vbprojAssemblyReference.cache
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmadmin.resources
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmData.resources
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmLogin.resources
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmlupaPassword.resources
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmPembayaran.resources
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmRegister.resources
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.frmHome.resources
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.Resources.resources
+E:\E-donat\cobatugasbesar\obj\Debug\E-Donat.vbproj.GenerateResource.cache
+E:\E-donat\cobatugasbesar\obj\Debug\E-Donat.vbproj.CoreCompileInputs.cache
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.exe
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.xml
+E:\E-donat\cobatugasbesar\obj\Debug\cobatugasbesar.pdb
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\E-Donat.vbprojAssemblyReference.cache
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\E-Donat.vbproj.GenerateResource.cache
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\E-Donat.vbproj.CoreCompileInputs.cache
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\bin\Debug\E-Donat.exe.config
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\bin\Debug\E-Donat.exe.manifest
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\bin\Debug\E-Donat.application
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\bin\Debug\E-Donat.exe
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\bin\Debug\E-Donat.pdb
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\bin\Debug\E-Donat.xml
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\edonat.frmData.resources
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\edonat.frmLogin.resources
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\edonat.frmlupaPassword.resources
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\edonat.frmPembayaran.resources
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\edonat.frmRegister.resources
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\edonat.frmHome.resources
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\edonat.Resources.resources
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\E-Donat.exe.manifest
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\E-Donat.application
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\E-Donat.exe
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\E-Donat.xml
+E:\kuliah\semester 3\PEMVIS\tugas\Besar\E-donat\cobatugasbesar\obj\Debug\E-Donat.pdb
